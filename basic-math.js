@@ -1,4 +1,4 @@
-// js function add 
+// js function added
 
 function add(num1, num2) {
     var total = num1 + num2;
